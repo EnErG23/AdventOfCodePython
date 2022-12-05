@@ -1,0 +1,5 @@
+# ignore all txt
+*.txt
+
+# ignore PyCharm
+.idea
