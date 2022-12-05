@@ -1,2 +1,5 @@
 # ignore all txt
 *.txt
+
+# ignore .idea
+.idea
