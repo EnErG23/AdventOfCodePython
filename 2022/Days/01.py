@@ -1,7 +1,6 @@
-file = '../Inputs/1.txt'
-#file = '../Inputs/1-test.txt'
+path = '../Inputs/1.txt'
 
-Input = [l.strip() for l in open(file)]
+Input = [l.strip() for l in open(path)]
 
 elves = (';'.join(Input)).split(';;')
 
