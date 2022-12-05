@@ -1,5 +1,6 @@
+# ignore PyCharm
+.idea
+venv
+
 # ignore all txt
 *.txt
-
-# ignore .idea
-.idea
